@@ -1,16 +1,15 @@
-## Hi there 👋
+Nishit Kalani
 
-<!--
-**nk-008120/nk-008120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- working-plasmid-pilot - Parsing complex constructs for function-based
+  screening. Working repository: code, the method and errata record, the
+  progress report and the deck.
+- plasmid-pilot-benchmark - The public retrieval benchmark from that work.
+- boguide - Source for bioguide.world, a free biology olympiad platform.
+  Current history starts 12 Aug 2026; the first three months are on the
+  backup-unwanted-state branch. Site content after Sep 2026 includes
+  contributions from the team, logged in the repo.
+- bioguide-umami - Unmodified self-hosted deployment of Umami Software's
+  analytics platform. Not my code.
+- STREAMLIT_FOR_BOGUIDE - Early prototype, superseded.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I currently work on the plasmid screening project and BiOGuide, and am always open to work in Computational Biology and Astrobiology (Please give me some work (:)
