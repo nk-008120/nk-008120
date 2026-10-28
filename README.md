@@ -1,4 +1,7 @@
-Nishit Kalani
+# Nishit Kalani
+
+I work on a plasmid screening project and on BiOGuide, and I am open to work in
+computational biology and astrobiology.
 
 - working-plasmid-pilot - Parsing complex constructs for function-based
   screening. Working repository: code, the method and errata record, the
@@ -10,6 +13,6 @@ Nishit Kalani
   a few contributions from the team, explicitly stated and logged in the repo.
 - bioguide-umami - Unmodified self-hosted deployment of Umami Software's
   analytics platform. Not my code.
-- STREAMLIT_FOR_BOGUIDE - Early prototype, superseded. Now used to serve IBO 2026 Plant Computational Biology practical practice interactive software (Archived).
-
-- I currently work on the plasmid screening project and BiOGuide, and am always open to work in Computational Biology and Astrobiology (Please give me some work (:)
+- STREAMLIT_FOR_BOGUIDE - Early prototype of the site, superseded and now
+  archived, kept online only to serve the IBO 2026 plant computational
+  biology practice interactive.
