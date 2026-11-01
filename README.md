@@ -1,7 +1,7 @@
 # Nishit Kalani
 
 I work on a plasmid screening project and on BiOGuide, and I am open to work in
-computational biology and astrobiology.
+computational biology and astrobiology. <br>
 FOR MIT MAKER REVIEWERS: Only the three pinned repositories are parts of the Maker Portfolio projects submitted. Hope you like them (:
 - working-plasmid-pilot - Parsing complex constructs for function-based
   screening. Working repository: code, the method and errata record, the
